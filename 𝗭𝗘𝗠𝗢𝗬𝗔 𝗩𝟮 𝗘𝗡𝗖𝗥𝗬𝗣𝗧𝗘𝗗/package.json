@@ -1,0 +1,44 @@
+{
+    "name": "𝐙𝐄𝐌𝐎𝐘𝐀 𝐂𝐑𝐀𝐒𝐇𝐄𝐑 ",
+    "version": "2.0",
+    "description": "up",
+    "main": "ua.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node ./ua.js"
+    },
+    "keywords": [
+        "whiskeysockets",
+        "multi-device"
+    ],
+    "author": "Zemoya",
+    "license": "MIT",
+    "dependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@colors/colors": "^1.5.0",
+        "@hapi/boom": "^10.0.0",
+        "@whiskeysockets/baileys": "github:nstar-y/Bail",
+        "awesome-phonenumber": "^2.70.0",
+        "chalk": "^4.1.2",
+        "child_process": "^1.0.2",
+        "crypto": "^1.0.1",
+        "colors": "latest",
+        "fs": "0.0.1-security",
+        "human-readable": "^0.2.1",
+            "javascript-obfuscator": "^4.0.0",
+    "obfuscator-io-deobfuscator": "^1.0.4",
+    "webcrack": "^2.14.1",
+    "js-confuser": "^1.7.3",
+    "deobfuscator": "^2.4.5",
+        "jimp": "^0.22.12",
+        "moment-timezone": "^0.5.34",
+        "node-fetch": "^2.6.1",
+        "pino": "^7.0.5",
+        "qrcode-terminal": "^0.12.0",
+        "readline": "^1.3.0",
+        "request": "^2.88.2",
+        "stream": "^0.0.3",
+        "util": "^0.12.4",
+        "yt-search": "^2.10.4"
+     }
+}
